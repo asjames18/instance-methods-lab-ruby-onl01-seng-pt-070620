@@ -3,7 +3,7 @@ def bark
   puts "Woof!"
 end
 def sit
-puts "The_Dog_is_sitting"
+puts "The Dog is sitting"
 end
 end
 
