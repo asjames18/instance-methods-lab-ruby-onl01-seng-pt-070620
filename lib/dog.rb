@@ -5,6 +5,7 @@ end
 def sit
   sit
 end
+end
 
 
 fido = Dog.new
