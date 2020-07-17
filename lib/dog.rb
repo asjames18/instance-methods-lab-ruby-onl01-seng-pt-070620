@@ -1,4 +1,7 @@
 class Dog
-def dog(be_truthy)
+def bark
+  fido = Dog.new
+  bark.fido
+end
 end
 end
